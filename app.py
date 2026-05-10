@@ -64,7 +64,7 @@ cancer_model = load_tabular_model()
 with st.sidebar:
     selection = option_menu('Lung Cancer Detection System',
     ['Introduction',
-    'About the Dataset',
+    'About the Dataset @@@@@@',
     'Lung Cancer Prediction',
     'CNN Based disease Prediction'],
     icons = ['activity','heart','person', 'heart'],
